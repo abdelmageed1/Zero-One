@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zero One</string>
+
+    <string-array name="category_of_sim">
+        <item>Vodafone</item>
+        <item>Orange</item>
+        <item>We</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
